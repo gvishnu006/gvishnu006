@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=210&section=header&text=G%20VISHNU&fontSize=68&fontColor=58a6ff&fontAlignY=36&desc=Front-end%20Developer%20%C2%B7%20TypeScript%20%26%20Motion%20UI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="G VISHNU" />
 
 <a href="https://github.com/gvishnu006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Front-end+Developer;TypeScript+%7C+React+%7C+Tailwind+CSS;Building+fast%2C+animated+web+experiences;79+public+repositories+and+counting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Front-end+Developer;TypeScript+%7C+React+%7C+Tailwind+CSS;Building+fast%2C+animated+web+experiences;81+public+repositories+and+counting" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@
 
 I'm **Vishnu** — a front-end developer who turns ideas into fast, animated, production-ready websites and apps.
 
-I work mostly in **TypeScript** and **React**, with a soft spot for hand-written CSS, HTML5 canvas and motion design. My public work spans **AI tools**, **real-time apps**, **browser games**, **developer utilities** and **UI experiments** — 79 repositories and counting.
+I work mostly in **TypeScript** and **React**, with a soft spot for hand-written CSS, HTML5 canvas and motion design. My public work spans **AI tools**, **real-time apps**, **browser games**, **developer utilities** and **UI experiments** — 81 repositories and counting.
 
 I care about the details that make an interface feel alive: micro-interactions, clean typography, tight performance and zero clutter.
 
@@ -43,7 +43,7 @@ handle:       @gvishnu006
 role:         Front-end Developer
 focus:        TypeScript · React · Motion UI
 stack:        Next.js · Vite · Tailwind · Canvas
-public_repos: 79
+public_repos: 81
 commits:      321 this year
 contribs:     409 last 12 months
 followers:    5
