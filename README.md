@@ -1,17 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=210&section=header&text=G%20VISHNU&fontSize=68&fontColor=58a6ff&fontAlignY=36&desc=Front-end%20Developer%20%C2%B7%20TypeScript%20%26%20Motion%20UI&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="G VISHNU" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=240&section=header&text=G%20VISHNU&fontSize=90&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%26%20React%20%26%20Node.js&descAlignY=62&descSize=20&animation=fadeIn" width="100%" alt="G VISHNU" />
 
 <a href="https://github.com/gvishnu006">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Front-end+Developer;TypeScript+%7C+React+%7C+Tailwind+CSS;Building+fast%2C+animated+web+experiences;81+public+repositories+and+counting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Building+fast%2C+animated+full-stack+experiences;81+public+repositories+and+counting" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <a href="https://github.com/gvishnu006"><img src="https://img.shields.io/badge/gvishnu006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<img src="https://komarev.com/ghpvc/?username=gvishnu006&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/gvishnu006?style=for-the-badge&logo=github&label=FOLLOWERS&color=1f6feb" alt="Followers" />
-<img src="https://img.shields.io/github/stars/gvishnu006?affiliations=OWNER&style=for-the-badge&logo=github&label=TOTAL+STARS&color=f5c518" alt="Total stars" />
 <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgvishnu006&query=%24.public_repos&label=PUBLIC+REPOS&style=for-the-badge&color=2ea043&logo=github" alt="Public repos" />
 
 </div>
@@ -19,7 +16,7 @@
 ---
 
 <div align="center">
-<i>"I build fast, animated, production-quality web experiences — and I build them in public."</i>
+<i>"I build fast, animated, production-quality full-stack products — and I build them in public."</i>
 </div>
 
 ## 👋 Who I Am · ⚡ At a Glance
@@ -28,9 +25,9 @@
 <tr>
 <td valign="top" width="56%">
 
-I'm **Vishnu** — a front-end developer who turns ideas into fast, animated, production-ready websites and apps.
+I'm **Vishnu** — a full-stack developer who turns ideas into fast, animated, production-ready websites, apps and APIs.
 
-I work mostly in **TypeScript** and **React**, with a soft spot for hand-written CSS, HTML5 canvas and motion design. My public work spans **AI tools**, **real-time apps**, **browser games**, **developer utilities** and **UI experiments** — 81 repositories and counting.
+I work across the stack with **TypeScript**, **React** and **Node.js**, with a soft spot for hand-written CSS, HTML5 canvas and motion design. My public work spans **AI tools**, **real-time apps**, **browser games**, **developer utilities** and **UI experiments** — 81 repositories and counting.
 
 I care about the details that make an interface feel alive: micro-interactions, clean typography, tight performance and zero clutter.
 
@@ -40,9 +37,9 @@ I care about the details that make an interface feel alive: micro-interactions, 
 ```yaml
 name:         G VISHNU
 handle:       @gvishnu006
-role:         Front-end Developer
-focus:        TypeScript · React · Motion UI
-stack:        Next.js · Vite · Tailwind · Canvas
+role:         Full-Stack Developer
+focus:        TypeScript · React · Node.js · Motion UI
+stack:        Next.js · Vite · Tailwind · Node.js · PostgreSQL
 public_repos: 81
 commits:      321 this year
 contribs:     409 last 12 months
@@ -102,45 +99,41 @@ status:       Building something new
 <table>
 <tr>
 <td width="50%">
-<a href="https://github.com/gvishnu006/studysmart-ai">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=studysmart-ai&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="StudySmart AI" />
+<a href="https://github.com/gvishnu006/study-smart-ai">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=study-smart-ai&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="StudySmart AI" />
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/gvishnu006/vscarz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=vscarz&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="VSCARZ" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/gvishnu006/neon-dodge">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=neon-dodge&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Neon Dodge" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/gvishnu006/tradex">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=tradex&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="TradeX" />
+<a href="https://github.com/gvishnu006/QR-Code-Generator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=QR-Code-Generator&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="QR Code Generator" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<a href="https://github.com/gvishnu006/ai-cover-letter-generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=ai-cover-letter-generator&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="AI Cover Letter Generator" />
+<a href="https://github.com/gvishnu006/typing-practice-challenges">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=typing-practice-challenges&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Typing Practice Challenges" />
 </a>
 </td>
 <td width="50%">
-<a href="https://github.com/gvishnu006/discord-chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=discord-chat&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Discord Chat" />
+<a href="https://github.com/gvishnu006/resume-builder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=resume-builder&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Resume Builder" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/gvishnu006/VSNonlinecompiler">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=VSNonlinecompiler&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="VSN Online Compiler" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/gvishnu006/Home-furniture-1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=gvishnu006&repo=Home-furniture-1&theme=tokyonight&hide_border=true&cache_seconds=86400" width="100%" alt="Home Furniture" />
 </a>
 </td>
 </tr>
 </table>
-
-<div align="center">
-<sub>More builds: <a href="https://github.com/gvishnu006/2048-neon">2048 Neon</a> · <a href="https://github.com/gvishnu006/kanban-board">Kanban Board</a> · <a href="https://github.com/gvishnu006/fluxmd-converter">FluxMD</a> · <a href="https://github.com/gvishnu006/VSN-Spacee">VSN Space</a> · <a href="https://github.com/gvishnu006/vsnprogram">VSNProgramiz</a> · <a href="https://github.com/gvishnu006/resume-builder">Resume Builder</a></sub>
-</div>
 
 ## 📊 GitHub Metrics & Stats Dashboard
 
