@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=260&section=header&text=G%20VISHNU&fontSize=125&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%26%20React%20%26%20Node.js&descAlignY=66&descSize=20&animation=fadeIn" width="100%" alt="G VISHNU" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=260&section=header&text=G%20VISHNU&fontSize=125&fontColor=58a6ff&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%26%20React%20%26%20Node.js&descAlignY=66&descSize=20&animation=fadeIn&v=3" width="100%" alt="G VISHNU" />
 
 <a href="https://github.com/gvishnu006">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;TypeScript+%7C+React+%7C+Node.js;Building+fast%2C+animated+full-stack+experiences;81+public+repositories+and+counting" alt="Typing SVG" />
